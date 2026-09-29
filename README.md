@@ -1,3 +1,10 @@
+> **This repository has moved.** iCloud Notes now lives in
+> [icloud-for-omarchy](https://github.com/ferdousbhai/icloud-for-omarchy)
+> (`notes/`), together with Photos, Find My and the shared iCloud sign-in, and
+> is released from there. Existing installs move over by themselves: install
+> once with `curl -fsSL https://ferdousbhai.com/icloud-notes/install.sh | sudo bash`
+> and `omarchy update` keeps it current. This repository is archived.
+
 # Notes (icloud-notes)
 
 Apple Notes for Omarchy. Your notes live as plain Markdown files in
